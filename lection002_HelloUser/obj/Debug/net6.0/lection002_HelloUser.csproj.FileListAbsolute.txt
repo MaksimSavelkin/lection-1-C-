@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\bin\Debug\net6.0\lection002_HelloUser.exe
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\bin\Debug\net6.0\lection002_HelloUser.deps.json
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\bin\Debug\net6.0\lection002_HelloUser.runtimeconfig.json
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\bin\Debug\net6.0\lection002_HelloUser.dll
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\bin\Debug\net6.0\lection002_HelloUser.pdb
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.AssemblyInfo.cs
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.dll
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\refint\lection002_HelloUser.dll
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.pdb
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\lection002_HelloUser.genruntimeconfig.cache
+C:\Users\Максим\Desktop\lection 1 C#\lection002_HelloUser\obj\Debug\net6.0\ref\lection002_HelloUser.dll
